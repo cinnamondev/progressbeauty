@@ -1,0 +1,12 @@
+Each symbol provided (Add-Rec.png, Nav-Left.png, Nav-Right.png) was sourced via a screen capture (Snipping tool) and is used as a guide for the end-user
+
+The logos, Salon_Logo.jpg was provided as the default logo for Progress Beauty in the initial folder.
+
+
+
+FONTS USED:
+
+Titles and footers: Eras Medium INC
+
+
+The border in the Price List publisher file (flower_border.png) is sourced from the internet (https://www.pngfly.com/png-rqh0t4/) and was free of charge and uploaded on the website as 'Public Domain'.
